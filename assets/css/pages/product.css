@@ -1,0 +1,10 @@
+.variant_table {
+    border-collapse: collapse;
+}
+
+.variant_table th,
+.variant_table td {
+    border: 1px dashed #0a0808;
+    padding: 5px;
+    color: unset;
+}

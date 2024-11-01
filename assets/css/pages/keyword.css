@@ -1,0 +1,6 @@
+.table td,
+        .table th {
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: normal;
+        }
